@@ -1,0 +1,30 @@
+* {
+	font-family:cursive;
+	background-color: #FFB6C1;
+}
+#input{
+	height: 26rem;
+	width: 24rem;
+	background-image: url("img4.jpg");
+    background-color: transparent;
+    background-position:center;
+	background-size: cover;
+	padding: 8px;
+	color: black;
+	border-radius: 1rem;
+}
+input {
+	background-color: #F7DC6F;
+	padding: 5px;
+	border-radius: 10px;
+	margin: 4px;
+
+}
+#foot{
+	background-color:black;
+	color: white;
+
+}
+#title{
+	background-color: transparent;
+}
